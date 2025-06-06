@@ -1,5 +1,6 @@
 {
   "name": "timetabled",
+  "homepage": "https://phuckq.github.io/playground/timetabled/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -26,5 +27,4 @@
     "globals": "^16.0.0",
     "vite": "^6.3.5"
   },
-  "homepage": "https://hoangngo-sudo.github.io/CodePathWEB102-playground/timetabled/"
 }
