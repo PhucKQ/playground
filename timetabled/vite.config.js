@@ -5,9 +5,9 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: './playground/timetabled',
-  build: {
-    outDir: 'dist',
-  }
+  // build: {
+  //   outDir: 'dist',
+  // }
   // server: {
   //   open:true,
   //   port: 5173
